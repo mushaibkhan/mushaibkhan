@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushaibkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mushaibkhan" /> </p>
 
-- 🌱 I’m currently learning **Python, Javascript**
+- 🌱 I’m currently learning **Python, React Js**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/gallery/141828395/Wordpress-Websites-Portfolio](https://www.behance.net/gallery/141828395/Wordpress-Websites-Portfolio)
 
