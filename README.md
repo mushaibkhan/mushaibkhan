@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, React Js**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/gallery/141828395/Wordpress-Websites-Portfolio](https://www.behance.net/gallery/141828395/Wordpress-Websites-Portfolio)
+- 👨‍💻 Some of my projects are available at [https://www.behance.net/gallery/141828395/Wordpress-Websites-Portfolio](https://www.behance.net/gallery/141828395/Wordpress-Websites-Portfolio)
 
 - 💬 Ask me about **Wordpress, PHP, HTML**
 
