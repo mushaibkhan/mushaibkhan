@@ -31,17 +31,17 @@ My work sits at the intersection of **software engineering and infrastructure en
 
 ### What I Work On
 
-- ⚛️ Modern web applications with **React, Next.js, and TypeScript**
-- 🟢 Backend systems and APIs with **Laravel, PHP, Node.js, and Express**
-- 📱 Mobile applications using **React Native and Expo**
-- 🐳 Containerized environments using **Docker and Docker Compose**
-- 🐧 Linux / Ubuntu server administration
-- ☁️ VPS, AWS, and self-hosted infrastructure
-- 🌐 Reverse proxies, DNS, SSL/TLS, and Cloudflare
-- 🗄️ MySQL, PostgreSQL, MongoDB, and Redis
-- 🧩 WordPress, WooCommerce, Elementor, and custom plugins
-- 🤖 AI tooling, local LLMs, Ollama, and automation workflows
-- 🔄 Deployment automation, CI/CD, and production troubleshooting
+* ⚛️ Modern web applications with **React, Next.js, and TypeScript**
+* 🟢 Backend systems and APIs with **Laravel, PHP, Node.js, and Express**
+* 📱 Mobile applications using **React Native and Expo**
+* 🐳 Containerized environments using **Docker and Docker Compose**
+* 🐧 Linux / Ubuntu server administration
+* ☁️ VPS, AWS, and self-hosted infrastructure
+* 🌐 Reverse proxies, DNS, SSL/TLS, and Cloudflare
+* 🗄️ MySQL, MariaDB, PostgreSQL, MongoDB, and Redis
+* 🧩 WordPress, WooCommerce, Elementor, ACF, and custom plugins
+* 🤖 AI tooling, local LLMs, Ollama, OpenAI APIs, and automation workflows
+* 🔄 Deployment automation, CI/CD, monitoring, and production troubleshooting
 
 ### My Engineering Approach
 
@@ -97,45 +97,46 @@ My work sits at the intersection of **software engineering and infrastructure en
   <img src="https://img.shields.io/badge/Coolify-111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Dokploy-111?style=for-the-badge&logoColor=00D9FF" />
   <img src="https://img.shields.io/badge/Portainer-111?style=for-the-badge&logo=portainer&logoColor=13BEF9" />
-  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/HestiaCP-111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-111?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 ### Infrastructure Experience
 
-- Linux / Ubuntu administration
-- Docker and Docker Compose
-- Container networking
-- Persistent volumes and service isolation
-- Nginx reverse proxy configuration
-- Traefik routing and service discovery
-- SSL/TLS and Let's Encrypt
-- Cloudflare DNS / CDN / WAF
-- VPS administration
-- AWS infrastructure
-- Self-hosted and bare-metal deployments
-- CI/CD workflows
-- Firewall configuration
-- UFW and network troubleshooting
-- Server hardening
-- Log analysis
-- Resource monitoring
-- Backup and recovery
-- Production troubleshooting
+* Linux / Ubuntu administration
+* Docker and Docker Compose
+* Container networking
+* Persistent volumes and service isolation
+* Nginx reverse proxy configuration
+* Traefik routing and service discovery
+* SSL/TLS and Let's Encrypt
+* Cloudflare DNS / CDN / WAF
+* VPS administration
+* AWS infrastructure
+* Self-hosted and bare-metal deployments
+* CI/CD workflows
+* Firewall configuration
+* UFW and network troubleshooting
+* Server hardening
+* Log analysis
+* Resource monitoring
+* Backup and recovery
+* Production troubleshooting
 
 ### Deployment Platforms
 
-- Docker
-- Docker Compose
-- Coolify
-- Dokploy
-- Portainer
-- Nginx
-- Traefik
-- HestiaCP
-- VPS environments
-- AWS
-- Self-hosted infrastructure
+* Docker
+* Docker Compose
+* Coolify
+* Dokploy
+* Portainer
+* HestiaCP
+* Nginx
+* Traefik
+* VPS environments
+* AWS
+* Self-hosted infrastructure
 
 ---
 
@@ -196,21 +197,21 @@ I work with multi-service environments where applications, databases, caches, wo
 
 ### Frontend Focus
 
-- React component architecture
-- Next.js applications
-- App Router
-- SSR / SSG / ISR
-- TypeScript
-- Responsive UI
-- Tailwind CSS
-- Vite
-- API integration
-- Authentication flows
-- State management
-- Performance optimization
-- SEO
-- Core Web Vitals
-- Production deployment
+* React component architecture
+* Next.js applications
+* App Router
+* SSR / SSG / ISR
+* TypeScript
+* Responsive UI
+* Tailwind CSS
+* Vite
+* API integration
+* Authentication flows
+* State management
+* Performance optimization
+* SEO
+* Core Web Vitals
+* Production deployment
 
 ---
 
@@ -222,17 +223,17 @@ I work with multi-service environments where applications, databases, caches, wo
   <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 </p>
 
-I build cross-platform applications using:
+### Mobile Focus
 
-- React Native
-- Expo
-- Expo CLI
-- React Navigation
-- REST API integration
-- Authentication
-- Mobile UI systems
-- Native integrations
-- Android development workflows
+* React Native
+* Expo
+* Expo CLI
+* React Navigation
+* REST API integration
+* Authentication
+* Mobile UI systems
+* Native integrations
+* Android development workflows
 
 ---
 
@@ -248,24 +249,24 @@ I build cross-platform applications using:
 
 ### Backend Capabilities
 
-- Laravel application development
-- PHP backend development
-- Node.js / Express APIs
-- RESTful API architecture
-- Authentication and authorization
-- JWT
-- OAuth integrations
-- Laravel Sanctum
-- Middleware
-- Request validation
-- Queues and workers
-- Scheduled jobs
-- Cron automation
-- File storage
-- Third-party APIs
-- Webhooks
-- API security
-- Production debugging
+* Laravel application development
+* PHP backend development
+* Node.js / Express APIs
+* RESTful API architecture
+* Authentication and authorization
+* JWT
+* OAuth integrations
+* Laravel Sanctum
+* Middleware
+* Request validation
+* Queues and workers
+* Scheduled jobs
+* Cron automation
+* File storage
+* Third-party APIs
+* Webhooks
+* API security
+* Production debugging
 
 ---
 
@@ -281,19 +282,19 @@ I build cross-platform applications using:
 
 ### Database Work
 
-- Schema design
-- Relationships
-- Indexing
-- Query optimization
-- Database migrations
-- Data migration
-- Backup and restoration
-- Production troubleshooting
-- Transaction handling
-- PostgreSQL administration
-- MySQL / MariaDB administration
-- Redis caching
-- Queue backends
+* Schema design
+* Relationships
+* Indexing
+* Query optimization
+* Database migrations
+* Data migration
+* Backup and restoration
+* Production troubleshooting
+* Transaction handling
+* PostgreSQL administration
+* MySQL / MariaDB administration
+* Redis caching
+* Queue backends
 
 ---
 
@@ -309,24 +310,24 @@ I build cross-platform applications using:
 
 ### WordPress Experience
 
-- WordPress development
-- WooCommerce
-- Elementor / Elementor Pro
-- ACF / ACF Pro
-- Custom themes
-- Custom plugins
-- Custom Elementor widgets
-- WooCommerce customization
-- Dynamic content systems
-- REST API integrations
-- Performance optimization
-- Plugin troubleshooting
-- Theme troubleshooting
-- Website migrations
-- Backup and restoration
-- DNS / hosting configuration
-- Security troubleshooting
-- Production maintenance
+* WordPress development
+* WooCommerce
+* Elementor / Elementor Pro
+* ACF / ACF Pro
+* Custom themes
+* Custom plugins
+* Custom Elementor widgets
+* WooCommerce customization
+* Dynamic content systems
+* REST API integrations
+* Performance optimization
+* Plugin troubleshooting
+* Theme troubleshooting
+* Website migrations
+* Backup and restoration
+* DNS / hosting configuration
+* Security troubleshooting
+* Production maintenance
 
 ---
 
@@ -342,18 +343,18 @@ I build cross-platform applications using:
 
 ### AI & Automation Focus
 
-- Local / self-hosted LLM environments
-- Ollama
-- OpenAI API integration
-- AI-assisted software development
-- Claude Code
-- AI coding workflows
-- Agent-based tooling
-- n8n automation
-- API-driven workflows
-- CLI automation
-- Containerized AI services
-- Developer productivity automation
+* Local / self-hosted LLM environments
+* Ollama
+* OpenAI API integration
+* AI-assisted software development
+* Claude Code
+* AI coding workflows
+* Agent-based tooling
+* n8n automation
+* API-driven workflows
+* CLI automation
+* Containerized AI services
+* Developer productivity automation
 
 ---
 
@@ -363,25 +364,25 @@ Production engineering is not only about deploying software — it is also about
 
 ### Areas I Work With
 
-- Linux permissions
-- SSH administration
-- Firewall configuration
-- UFW
-- SSL/TLS
-- Cloudflare WAF
-- DNS troubleshooting
-- Reverse proxies
-- Container networking
-- Port conflicts
-- Application logs
-- Docker logs
-- Database failures
-- Resource exhaustion
-- Memory issues
-- Disk management
-- Service recovery
-- Backup / restoration
-- Production debugging
+* Linux permissions
+* SSH administration
+* Firewall configuration
+* UFW
+* SSL/TLS
+* Cloudflare WAF
+* DNS troubleshooting
+* Reverse proxies
+* Container networking
+* Port conflicts
+* Application logs
+* Docker logs
+* Database failures
+* Resource exhaustion
+* Memory issues
+* Disk management
+* Service recovery
+* Backup / restoration
+* Production debugging
 
 ### Troubleshooting Workflow
 
@@ -444,17 +445,17 @@ Production
 
 ### Deployment Areas
 
-- Git workflows
-- Branch-based development
-- Build pipelines
-- Docker image builds
-- Deployment automation
-- Environment configuration
-- Secrets management
-- Database migrations
-- Health checks
-- Rollbacks
-- Production validation
+* Git workflows
+* Branch-based development
+* Build pipelines
+* Docker image builds
+* Deployment automation
+* Environment configuration
+* Secrets management
+* Database migrations
+* Health checks
+* Rollbacks
+* Production validation
 
 ---
 
@@ -524,40 +525,46 @@ Production
 
 # 📦 Technologies at a Glance
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | React, Next.js, React Native, Expo, TypeScript, JavaScript, Vite, Tailwind CSS |
-| **Backend** | Laravel, PHP, Node.js, Express.js, REST APIs |
-| **Databases** | MySQL, MariaDB, PostgreSQL, MongoDB, Redis |
-| **CMS** | WordPress, WooCommerce, Elementor, ACF, WPBakery |
-| **Infrastructure** | Linux, Ubuntu, Docker, Docker Compose, Nginx, Traefik |
-| **Cloud** | AWS, VPS, Cloudflare, Self-hosted Infrastructure |
-| **Deployment** | Coolify, Dokploy, Portainer, CI/CD, GitHub Actions |
-| **AI** | Ollama, OpenAI APIs, Claude, Claude Code |
-| **Automation** | n8n, CLI automation, deployment automation |
-| **Security** | SSL/TLS, Cloudflare WAF, UFW, server hardening |
-| **Version Control** | Git, GitHub |
+| Area                | Technologies                                                                   |
+| ------------------- | ------------------------------------------------------------------------------ |
+| **Frontend**        | React, Next.js, React Native, Expo, TypeScript, JavaScript, Vite, Tailwind CSS |
+| **Backend**         | Laravel, PHP, Node.js, Express.js, REST APIs                                   |
+| **Databases**       | MySQL, MariaDB, PostgreSQL, MongoDB, Redis                                     |
+| **CMS**             | WordPress, WooCommerce, Elementor, ACF, WPBakery                               |
+| **Infrastructure**  | Linux, Ubuntu, Docker, Docker Compose, Nginx, Traefik                          |
+| **Cloud**           | AWS, VPS, Cloudflare, Self-hosted Infrastructure                               |
+| **Deployment**      | Coolify, Dokploy, Portainer, CI/CD, GitHub Actions                             |
+| **AI**              | Ollama, OpenAI APIs, Claude, Claude Code                                       |
+| **Automation**      | n8n, CLI automation, deployment automation                                     |
+| **Security**        | SSL/TLS, Cloudflare WAF, UFW, server hardening                                 |
+| **Version Control** | Git, GitHub                                                                    |
 
 ---
 
 # 🏗️ What I Build
 
 ### 🌐 Web Applications
+
 Modern production web applications using React, Next.js, Laravel, Node.js, and PostgreSQL/MySQL.
 
 ### 📱 Mobile Applications
+
 Cross-platform mobile applications using React Native and Expo.
 
 ### 🛒 Business & E-commerce
+
 WordPress and WooCommerce platforms, custom business websites, integrations, and automation.
 
 ### ☁️ Infrastructure
+
 Dockerized VPS and cloud environments with Linux, Nginx/Traefik, Cloudflare, and production monitoring.
 
 ### 🤖 AI Systems
+
 Self-hosted AI services, LLM integrations, automation workflows, and AI-assisted developer tooling.
 
 ### 🔄 Automation
+
 Deployment, monitoring, API, and business process automation.
 
 ---
@@ -579,14 +586,14 @@ Self-Hosted Systems
 
 I'm particularly interested in projects involving:
 
-- Full-stack SaaS platforms
-- Production API systems
-- Cloud and VPS infrastructure
-- Self-hosted services
-- AI-powered applications
-- Automation platforms
-- Developer tooling
-- Business management systems
+* Full-stack SaaS platforms
+* Production API systems
+* Cloud and VPS infrastructure
+* Self-hosted services
+* AI-powered applications
+* Automation platforms
+* Developer tooling
+* Business management systems
 
 ---
 
@@ -610,7 +617,7 @@ I'm available for selected freelance and technical projects involving:
 
 **Full-Stack Development · DevOps · Cloud Deployment · Linux Servers · Docker · Laravel · React · Next.js · WordPress · WooCommerce · Automation · AI Integration**
 
-📩 Connect with me:
+📩 **Connect with me**
 
 [LinkedIn](https://www.linkedin.com/in/mushaibkhan/)
 
@@ -622,12 +629,15 @@ I'm available for selected freelance and technical projects involving:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mushaibkhan&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=mushaibkhan&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Mushaib Khan GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushaibkhan&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushaibkhan&layout=compact&theme=transparent&hide_border=true&langs_count=10"
+    alt="Most Used Languages"
   />
 </p>
 
@@ -637,8 +647,8 @@ I'm available for selected freelance and technical projects involving:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mushaibkhan&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=mushaibkhan&theme=transparent&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -647,10 +657,20 @@ I'm available for selected freelance and technical projects involving:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mushaibkhan/mushaibkhan/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mushaibkhan/mushaibkhan/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mushaibkhan/mushaibkhan/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/mushaibkhan/mushaibkhan/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
