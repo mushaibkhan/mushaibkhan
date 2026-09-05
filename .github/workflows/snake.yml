@@ -19,10 +19,10 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: platane/snk@v3
         with:
           github_user_name: mushaibkhan
-          github_token: ${{ secrets.SNAKE_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -30,7 +30,7 @@ jobs:
       - name: Publish contribution snake
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.SNAKE_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
           force_orphan: true
